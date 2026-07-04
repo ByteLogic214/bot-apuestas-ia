@@ -37,3 +37,5 @@ if __name__ == '__main__':
         else:
             print("Fuera de horario operativo (10am-10pm). Durmiendo...")
             time.sleep(3600)
+
+# Lógica estricta de modelos CBM/PKL integrada
